@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Eduardo Reyes (@joedudev)
 
-<!--
-**joedudev/joedudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN) | WordPress | Laravel
+📍 Guatemala City
+🌎 https://joedu.dev
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a Full Stack Developer focused on building clean, functional, and scalable web applications.
+
+I enjoy working across the stack — from UI and UX details to backend logic and APIs.
+Currently improving my skills and building real-world projects.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+- HTML, CSS, JavaScript
+- React, Tailwind, SCSS
+
+**Backend**
+
+- Node.js, Express
+- PHP, Laravel
+
+**Databases**
+
+- MongoDB, MySQL
+
+**Tools**
+
+- Git & GitHub
+- Linux (Ubuntu)
+- VSCodium
+
+---
+
+## 📌 What I'm working on
+
+- Personal portfolio
+- Full Stack demo projects
+- Open to freelance and remote opportunities
+
+---
+
+## 📫 Contact
+
+- Website: https://joedu.dev
+- GitHub: https://github.com/joedudev
