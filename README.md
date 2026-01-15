@@ -28,11 +28,14 @@ I'm a self-taught Full Stack Developer passionate about building **clean, functi
 
 I'm actively following **[roadmap.sh](https://roadmap.sh)** to structure my learning path and track my progress across various technologies and concepts.
 
-[![roadmap.sh profile](https://api.roadmap.sh/v1-badge/wide/67dde99f1c90b96e5f382aa9?variant=dark)](https://roadmap.sh/u/joedudev)
+### 📊 Track My Progress
 
-**Check out my progress**: [roadmap.sh/u/joedudev](https://roadmap.sh/u/joedudev)
+Visit my roadmap.sh profile to see my learning journey and completed milestones:
 
-Current focus areas:
+**➡️ [roadmap.sh/u/joedudev](https://roadmap.sh/u/joedudev)**
+
+### Current Focus Areas:
+
 - Advanced React patterns and performance optimization
 - Backend architecture and API design
 - Database optimization and query performance
@@ -43,6 +46,7 @@ Current focus areas:
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -51,6 +55,7 @@ Current focus areas:
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -58,10 +63,12 @@ Current focus areas:
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools & Environment
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -82,6 +89,7 @@ Current focus areas:
 ## 🤝 Open to Opportunities
 
 I'm actively seeking:
+
 - 💼 **Freelance Projects**
 - 🌍 **Remote Work Opportunities**
 - 🤝 **Collaboration on Open Source**
