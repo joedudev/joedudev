@@ -13,7 +13,9 @@
 
 ## 💻 Full Stack Developer | Self-Taught Engineer
 
-I'm a self-taught Full Stack Developer passionate about building **clean, functional, and scalable web applications**. My learning journey is driven by **documentation-first approaches** and **hands-on projects**, using AI as a strategic tool for learning and problem-solving—not just code completion.
+I'm a self-taught Full Stack Developer passionate about building **clean, functional, and scalable web applications**. Currently specializing in the **MERN stack** while leveraging my experience with **PHP, Laravel, and WordPress** development.
+
+My learning journey is driven by **documentation-first approaches** and **hands-on projects**, using AI as a strategic tool for learning and problem-solving—not just code completion.
 
 ### 🎯 My Learning Philosophy
 
@@ -36,10 +38,22 @@ Visit my roadmap.sh profile to see my learning journey and completed milestones:
 
 ### Current Focus Areas:
 
+- **MERN Stack**: Building modern full-stack applications
 - Advanced React patterns and performance optimization
-- Backend architecture and API design
+- Backend architecture and API design with Node.js/Express
 - Database optimization and query performance
 - DevOps fundamentals and deployment strategies
+
+### Active in the Community:
+
+- 🌎 Member of **WordPress Guatemala** community
+- Contributing to local tech meetups and knowledge sharing
+
+<div align="center">
+  <a href="https://guatemala.wordcamp.org/" target="_blank">
+    <img src="https://guatemalacity.wordcamp.org/2024/files/2024/09/wordcamp-guatemala-2024-intro.png" alt="WordPress Guatemala" height="60">
+  </a>
+</div>
 
 ---
 
@@ -79,8 +93,9 @@ Visit my roadmap.sh profile to see my learning journey and completed milestones:
 
 ## 🚀 What I'm Working On
 
-- 🌐 **Personal Portfolio**: Showcasing projects and skills
-- 💡 **Full Stack Projects**: Building real-world applications with MERN stack
+- 🌐 **Personal Portfolio**: Showcasing projects with MERN stack
+- 💡 **Full Stack Projects**: Building real-world applications end-to-end
+- 🔧 **WordPress Development**: Custom themes and plugins for clients
 - 📖 **Learning in Public**: Documenting my journey and sharing knowledge
 - 🎯 **Roadmap Completion**: Systematically working through development roadmaps
 
