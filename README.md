@@ -104,6 +104,16 @@ I am actively involved in web development education and local community building
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ℹ️ Assigned issue [#5](https://github.com/joedudev/curso-git-github/issues/5) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
+2. ℹ️ Assigned issue [#4](https://github.com/joedudev/curso-git-github/issues/4) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
+3. 🎉 Merged PR [#6](https://github.com/joedudev/curso-git-github/pull/6) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
+4. 🔒 Closed issue [#4](https://github.com/joedudev/curso-git-github/issues/4) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
+5. 💪 Opened PR [#6](https://github.com/joedudev/curso-git-github/pull/6) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
+6. 🔒 Closed issue [#3](https://github.com/joedudev/curso-git-github/issues/3) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
+7. ❗ Opened issue [#5](https://github.com/joedudev/curso-git-github/issues/5) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
+8. ❗ Opened issue [#4](https://github.com/joedudev/curso-git-github/issues/4) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
+9. ❗ Opened issue [#3](https://github.com/joedudev/curso-git-github/issues/3) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
+10. ℹ️ Assigned issue [#3](https://github.com/joedudev/curso-git-github/issues/3) in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
