@@ -1,4 +1,4 @@
-name: Update README2
+name: Update Profile README
 
 on:
   schedule:
@@ -15,6 +15,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+
+      - uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: joedudev
+          MAX_LINES: 10
+          TARGET_FILE: README.md
+          FILTER_EVENTS: PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
