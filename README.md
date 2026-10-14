@@ -101,6 +101,16 @@ I am actively involved in web development education and local community building
 - 💡 **Full Stack Web Apps**: Building projects with React, PHP (Laravel/Symfony), and SQL databases
 - 📖 **Learning in Public**: Documenting technical insights and sharing knowledge
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+
 ---
 
 ## 🤝 Open to Opportunities
