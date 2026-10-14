@@ -4,8 +4,8 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # Runs every 30 minutes
-  workflow_dispatch: # Allows manual triggering
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
 
 jobs:
   update-activity:
