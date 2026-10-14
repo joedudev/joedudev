@@ -101,15 +101,10 @@ I am actively involved in web development education and local community building
 - 💡 **Full Stack Web Apps**: Building projects with React, PHP (Laravel/Symfony), and SQL databases
 - 📖 **Learning in Public**: Documenting technical insights and sharing knowledge
 
-## ⚡ Actividad reciente
+## ⚡ Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)<br>
-2. ⬆️ Pushed undefined commit(s) to [aprendemic/.github](https://github.com/aprendemic/.github)<br>
-3. ⬆️ Pushed undefined commit(s) to [joedudev/joedudev](https://github.com/joedudev/joedudev)<br>
-4. ⬆️ Pushed undefined commit(s) to [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)<br>
-5. ⬆️ Pushed undefined commit(s) to [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github)<br>
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, October 14th, 2026, 12:04:21 PM
