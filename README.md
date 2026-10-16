@@ -104,16 +104,16 @@ I am actively involved in web development education and local community building
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/5565055c523bf3f9e046d79be92b0290e353ab1b)
-2. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/2628014b479c0a1e3b53c7c609ea124d0025c8fc)
-3. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/cbd2fef3ab156ecd93368fee0ab60ed04d2c173c)
-4. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/a3edb1e97a7d4b2cf5d9cd7a663f6c81799d4d5a)
-5. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/357e909dd94b53d674dc09554866494529024f14)
-6. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/6349efd8a9d026d8a533de4d3ef2f4ba075b1e19)
-7. 📝 Committed to main in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github/commit/2b9167255687439ca9f3e5971b1f8fc0cc61e282)
-8. 📝 Committed to main in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github/commit/1b83d54c2631f4abe1411d15821aeefa6e6f9ed7)
-9. 📝 Committed to add-badges-to-readme in a private repository
-10. 📝 Committed to main in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github/commit/f9c964574ae36696b17d6c4508dbab4a170f941c)
+1. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/ff4be83cb9c17022342ee08ec578e62c7c671f7e)
+2. 🗑️ Deleted a branch add-badges-to-readme in a private repository
+3. 📝 Committed to main in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github/commit/113ae49632623cc273291d30001f90cc349aadee)
+4. 🎉 Created a new branch main in [aprendemic/.github](https://github.com/aprendemic/.github/tree/main)
+5. 📝 Committed to main in a private repository
+6. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/5565055c523bf3f9e046d79be92b0290e353ab1b)
+7. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/2628014b479c0a1e3b53c7c609ea124d0025c8fc)
+8. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/cbd2fef3ab156ecd93368fee0ab60ed04d2c173c)
+9. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/a3edb1e97a7d4b2cf5d9cd7a663f6c81799d4d5a)
+10. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/357e909dd94b53d674dc09554866494529024f14)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
