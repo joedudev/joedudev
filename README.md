@@ -104,16 +104,16 @@ I am actively involved in web development education and local community building
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/ff4be83cb9c17022342ee08ec578e62c7c671f7e)
-2. 🗑️ Deleted a branch add-badges-to-readme in a private repository
-3. 📝 Committed to main in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github/commit/113ae49632623cc273291d30001f90cc349aadee)
-4. 🎉 Created a new branch main in [aprendemic/.github](https://github.com/aprendemic/.github/tree/main)
-5. 📝 Committed to main in a private repository
-6. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/5565055c523bf3f9e046d79be92b0290e353ab1b)
-7. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/2628014b479c0a1e3b53c7c609ea124d0025c8fc)
-8. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/cbd2fef3ab156ecd93368fee0ab60ed04d2c173c)
-9. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/a3edb1e97a7d4b2cf5d9cd7a663f6c81799d4d5a)
-10. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/357e909dd94b53d674dc09554866494529024f14)
+1. 🚀 Published release v0.1.0 in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/releases/tag/v0.1.0)
+2. ⭐ Starred [expressjs/express](https://github.com/expressjs/express)
+3. 🔀 Merged PR #2 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/pull/2)
+4. 📥 Opened PR #2 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/pull/2)
+5. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/ff4be83cb9c17022342ee08ec578e62c7c671f7e)
+6. 🗑️ Deleted a branch add-badges-to-readme in a private repository
+7. 📝 Committed to main in [joedudev/curso-git-github](https://github.com/joedudev/curso-git-github/commit/113ae49632623cc273291d30001f90cc349aadee)
+8. 🎉 Created a new branch main in [aprendemic/.github](https://github.com/aprendemic/.github/tree/main)
+9. 📝 Committed to main in a private repository
+10. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/5565055c523bf3f9e046d79be92b0290e353ab1b)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
