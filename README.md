@@ -104,16 +104,16 @@ I am actively involved in web development education and local community building
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/commit/91aafdeb5260156efbeb074435c09de4e12da61e)
-2. 🎉 Created a new branch joedu-task-16 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/tree/joedu-task-16)
-3. 🗑️ Deleted a branch amin-task-15 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo)
-4. 📝 Committed to main in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/commit/0919bd1f3a498824cf518477db374dd705377613)
-5. 🚀 Published release v0.1.0 in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/releases/tag/v0.1.0)
-6. ⭐ Starred [expressjs/express](https://github.com/expressjs/express)
-7. 🔀 Merged PR #2 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/pull/2)
-8. 📥 Opened PR #2 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/pull/2)
-9. 📝 Committed to main in [joedudev/joedudev](https://github.com/joedudev/joedudev/commit/ff4be83cb9c17022342ee08ec578e62c7c671f7e)
-10. 🗑️ Deleted a branch add-badges-to-readme in a private repository
+1. 🎉 Created a new branch main in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/tree/main)
+2. 📝 Committed to main in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/commit/f8d7c5c5d944b57df6f5ddbadd52f05f21b8d5ae)
+3. 🎉 Created a new branch amin-task-15 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/tree/amin-task-15)
+4. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/266e08de594582fbf5d5ef0a8b6b91939445f83b)
+5. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/6f58497b71d7e70f1b179235401f8a94a1246b0d)
+6. 📝 Committed to main in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/commit/91aafdeb5260156efbeb074435c09de4e12da61e)
+7. 🎉 Created a new branch joedu-task-16 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/tree/joedu-task-16)
+8. 🗑️ Deleted a branch amin-task-15 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo)
+9. 📝 Committed to main in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/commit/0919bd1f3a498824cf518477db374dd705377613)
+10. 🚀 Published release v0.1.0 in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/releases/tag/v0.1.0)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
