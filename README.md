@@ -104,16 +104,16 @@ I am actively involved in web development education and local community building
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/tree/main)
-2. 📝 Committed to main in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/commit/f8d7c5c5d944b57df6f5ddbadd52f05f21b8d5ae)
-3. 🎉 Created a new branch amin-task-15 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/tree/amin-task-15)
-4. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/266e08de594582fbf5d5ef0a8b6b91939445f83b)
-5. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/6f58497b71d7e70f1b179235401f8a94a1246b0d)
-6. 📝 Committed to main in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/commit/91aafdeb5260156efbeb074435c09de4e12da61e)
-7. 🎉 Created a new branch joedu-task-16 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/tree/joedu-task-16)
-8. 🗑️ Deleted a branch amin-task-15 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo)
-9. 📝 Committed to main in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/commit/0919bd1f3a498824cf518477db374dd705377613)
-10. 🚀 Published release v0.1.0 in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/releases/tag/v0.1.0)
+1. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/ddcbef9ccc07697e855c905bee4ac9d3cd5bad2f)
+2. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/34ef6aa1d989373b8a594a752fe874e1c03c41e4)
+3. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/13575231a5bf64a3f7415d6126822eed2875c6de)
+4. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/c7eb61166dd9748e117c47cf38386e0683e786d7)
+5. 🎉 Created a new branch main in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/tree/main)
+6. 📝 Committed to main in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/commit/f8d7c5c5d944b57df6f5ddbadd52f05f21b8d5ae)
+7. 🎉 Created a new branch amin-task-15 in [joedudev/miCuartoRepo](https://github.com/joedudev/miCuartoRepo/tree/amin-task-15)
+8. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/266e08de594582fbf5d5ef0a8b6b91939445f83b)
+9. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/6f58497b71d7e70f1b179235401f8a94a1246b0d)
+10. 📝 Committed to main in [joedudev/tercerRepo](https://github.com/joedudev/tercerRepo/commit/91aafdeb5260156efbeb074435c09de4e12da61e)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
