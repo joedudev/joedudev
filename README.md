@@ -104,16 +104,16 @@ I am actively involved in web development education and local community building
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch main in [joedudev/curso-sass-platzi](https://github.com/joedudev/curso-sass-platzi/tree/main)
-2. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/96d99f5259dca857ba6c70584c0b1bc3b47508ad)
-3. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/3491bb3fab40e351b4bff4e6a9883d213950d8bc)
-4. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/acf2826e49f46d6203a3ea46cd73e6a9c76cbad4)
-5. 🎉 Created a new branch main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/tree/main)
-6. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/4fdcafa6ca32fb56d38997d16815bf84edca7aef)
-7. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/bba723e6ef73c16d70ec4b9eeef63179d440355a)
-8. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/7766300339554eec25152086f16eafc468daa97b)
-9. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/3734e75872bb9bbd16d5e4fd007c1aec469ba17a)
-10. 📝 Committed to main in [joedudev/curso-progra-basica](https://github.com/joedudev/curso-progra-basica/commit/2ce0a225931bf7386f4cd4c94a799356a204db68)
+1. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/ac46db3b6a1809977cb49eed2f42c08e49e78bcc)
+2. 🔀 Merged PR #1 in [joedudev/curso-sass-platzi](https://github.com/joedudev/curso-sass-platzi/pull/1)
+3. 📥 Opened PR #1 in [joedudev/curso-sass-platzi](https://github.com/joedudev/curso-sass-platzi/pull/1)
+4. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/d119e65e3e8fcaf71956be0d894c7a6550e5399e)
+5. 🎉 Created a new branch main in [joedudev/curso-sass-platzi](https://github.com/joedudev/curso-sass-platzi/tree/main)
+6. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/96d99f5259dca857ba6c70584c0b1bc3b47508ad)
+7. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/3491bb3fab40e351b4bff4e6a9883d213950d8bc)
+8. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/acf2826e49f46d6203a3ea46cd73e6a9c76cbad4)
+9. 🎉 Created a new branch main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/tree/main)
+10. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/4fdcafa6ca32fb56d38997d16815bf84edca7aef)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
