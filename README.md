@@ -104,16 +104,16 @@ I am actively involved in web development education and local community building
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #1 in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/pull/1)
-2. 📥 Opened PR #1 in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/pull/1)
-3. ⭐ Starred [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation)
-4. ⭐ Starred [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper)
-5. 🗑️ Deleted a branch svg-fix in [joedudev/curso-sass-platzi](https://github.com/joedudev/curso-sass-platzi)
-6. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/fbd4f634f0ffb08ba3254f7cb37621c569e355ad)
-7. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/f9f37c4aba1eff34c8482011ac1a30b46bc25044)
-8. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/ac46db3b6a1809977cb49eed2f42c08e49e78bcc)
-9. 🔀 Merged PR #1 in [joedudev/curso-sass-platzi](https://github.com/joedudev/curso-sass-platzi/pull/1)
-10. 📥 Opened PR #1 in [joedudev/curso-sass-platzi](https://github.com/joedudev/curso-sass-platzi/pull/1)
+1. 🗑️ Deleted a branch reto-01-hero in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi)
+2. 🎉 Created a new branch main in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/tree/main)
+3. 🔀 Merged PR #1 in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/pull/1)
+4. 📥 Opened PR #1 in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/pull/1)
+5. ⭐ Starred [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation)
+6. ⭐ Starred [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper)
+7. 🗑️ Deleted a branch svg-fix in [joedudev/curso-sass-platzi](https://github.com/joedudev/curso-sass-platzi)
+8. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/fbd4f634f0ffb08ba3254f7cb37621c569e355ad)
+9. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/f9f37c4aba1eff34c8482011ac1a30b46bc25044)
+10. 📝 Committed to main in [joedudev/curso-css-practico](https://github.com/joedudev/curso-css-practico/commit/ac46db3b6a1809977cb49eed2f42c08e49e78bcc)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
