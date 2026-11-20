@@ -104,16 +104,16 @@ I am actively involved in web development education and local community building
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to in-dev in [joedudev/joedudev-site](https://github.com/joedudev/joedudev-site/commit/0da0ffdb4fc637105d0cba1734a222c4798ac94a)
-2. 🎉 Created a new branch in-dev in [joedudev/joedudev-site](https://github.com/joedudev/joedudev-site/tree/in-dev)
-3. 🎉 Created a new branch main in [joedudev/joedudev-site](https://github.com/joedudev/joedudev-site/tree/main)
-4. 📝 Committed to main in [joedudev/joedudev-site](https://github.com/joedudev/joedudev-site/commit/7c4c8c7f8bf56c41385f10da480238e089653cae)
-5. 📝 Committed to main in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/commit/6fdbfd5e6fc2fe558f454644271adc0843d077ce)
-6. 📝 Committed to main in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/commit/8eadbd07a386e62a72eb3ee229f08aa42482ff59)
-7. 📝 Committed to main in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/commit/8c26dd870eb1e9f1d7145f235ed06ab965454b5a)
-8. 📝 Committed to main in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/commit/02051fb280349f097c87497d47f23d2ccd485ed4)
-9. 🎉 Created a new branch reto-01-hero in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/tree/reto-01-hero)
-10. 🗑️ Deleted a branch reto-01-hero in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi)
+1. 📝 Committed to main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/commit/d8f71f3b85ee1913f79e86bd0040da727e9bc6ab)
+2. 📝 Committed to main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/commit/20908879a6e60aef371cce2296e65aca5a1fb329)
+3. 📝 Committed to main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/commit/033d45bac819cc364fcda341fb1bdf375d1c3e59)
+4. 🎉 Created a new branch main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/tree/main)
+5. 📝 Committed to in-dev in [joedudev/joedudev-site](https://github.com/joedudev/joedudev-site/commit/0da0ffdb4fc637105d0cba1734a222c4798ac94a)
+6. 🎉 Created a new branch in-dev in [joedudev/joedudev-site](https://github.com/joedudev/joedudev-site/tree/in-dev)
+7. 🎉 Created a new branch main in [joedudev/joedudev-site](https://github.com/joedudev/joedudev-site/tree/main)
+8. 📝 Committed to main in [joedudev/joedudev-site](https://github.com/joedudev/joedudev-site/commit/7c4c8c7f8bf56c41385f10da480238e089653cae)
+9. 📝 Committed to main in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/commit/6fdbfd5e6fc2fe558f454644271adc0843d077ce)
+10. 📝 Committed to main in [joedudev/curso-tailwind-platzi](https://github.com/joedudev/curso-tailwind-platzi/commit/8eadbd07a386e62a72eb3ee229f08aa42482ff59)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
