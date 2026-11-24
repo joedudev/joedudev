@@ -104,16 +104,16 @@ I am actively involved in web development education and local community building
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/commit/d0f5e188cf7062f9a99529a4be50765a744c0034)
-2. 🗑️ Deleted a branch greeting-builder in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects)
-3. 📝 Committed to main in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/commit/08a5de5a9411f92e25764b2ed191efedbfc34b19)
-4. 📝 Committed to main in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/commit/cb35c44a48a17ce7927bde4715e4a795afdbd1e4)
-5. 🔀 Merged PR #1 in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/pull/1)
-6. 📥 Opened PR #1 in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/pull/1)
-7. ⭐ Starred [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-8. 📝 Committed to main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/commit/f8b0b8039a029a3cce660a07854c936d4c2fc007)
-9. 📝 Committed to main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/commit/f60a520c20a7b3bab24caf232fdd4c1c6e97114b)
-10. 📝 Committed to main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/commit/d8f71f3b85ee1913f79e86bd0040da727e9bc6ab)
+1. 🎉 Created a new branch greeting-builder in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/tree/greeting-builder)
+2. 🎉 Created a new branch main in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/tree/main)
+3. 📝 Committed to main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/commit/d0f5e188cf7062f9a99529a4be50765a744c0034)
+4. 🗑️ Deleted a branch greeting-builder in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects)
+5. 📝 Committed to main in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/commit/08a5de5a9411f92e25764b2ed191efedbfc34b19)
+6. 📝 Committed to main in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/commit/cb35c44a48a17ce7927bde4715e4a795afdbd1e4)
+7. 🔀 Merged PR #1 in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/pull/1)
+8. 📥 Opened PR #1 in [joedudev/javascript-roadmap-projects](https://github.com/joedudev/javascript-roadmap-projects/pull/1)
+9. ⭐ Starred [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+10. 📝 Committed to main in [joedudev/curso-dom-js-platzi](https://github.com/joedudev/curso-dom-js-platzi/commit/f8b0b8039a029a3cce660a07854c936d4c2fc007)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
